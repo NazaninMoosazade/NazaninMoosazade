@@ -1,10 +1,6 @@
 ### Hi there 👋
 
 
-**NazaninMoosazade/NazaninMoosazade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazaninMoosazade&hide_progress=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=NazaninMoosazade&show_icons=true&theme=dark"/>
-
-<img src= "https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/>
