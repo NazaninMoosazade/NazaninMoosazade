@@ -7,5 +7,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=NazaninMoosazade&show_icons=true&theme=dark"/>
 
-https://github-readme-stats.vercel.app/api?username=NazaninMoosazade&show_icons=true&theme=dark
-
+<img src= "https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/>
