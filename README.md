@@ -1,15 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Nazanin Mousazadeh 👋
 
-**NazaninMoosazade/NazaninMoosazade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Frontend Developer** who loves creating beautiful and user-friendly web experiences.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎯 Frontend Developer
+- 🎨 I enjoy turning complex problems into simple, beautiful, and intuitive designs.
+- 💻 Always learning new technologies to improve my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/936bf24bde4fb9dae5cd5c0cf6001454f3727d716266b51506ce70ea129c806d/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a732c6772617068716c2c7461696c77696e642c72656163742c747970657363726970742c72656475782c6e6578742c736f636b6574"><img src="https://camo.githubusercontent.com/936bf24bde4fb9dae5cd5c0cf6001454f3727d716266b51506ce70ea129c806d/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a732c6772617068716c2c7461696c77696e642c72656163742c747970657363726970742c72656475782c6e6578742c736f636b6574" data-canonical-src="https://skillicons.dev/icons?i=js,graphql,tailwind,react,typescript,redux,next,socket" style="max-width: 100%;"></a>
+## 🛠️ Skills & Technologies
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
+</div>
+
+## 🌱 I’m currently working on
+- Improving my TypeScript and Redux skills.
+- Building amazing projects with React and TailwindCSS.
+
+## ✨ Fun Fact
+I believe that **every great design begins with an even better story.**
