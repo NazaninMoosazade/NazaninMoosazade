@@ -19,11 +19,23 @@ I'm a passionate **Frontend Developer** who loves creating beautiful and user-fr
 | **TypeScript** | ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=flat&logo=typescript&logoColor=white) |
 | **Redux** | ![Redux](https://img.shields.io/badge/Redux-%23593d88?style=flat&logo=redux&logoColor=white) |
 
+## 🧰 Tools I Work With
+
+| Tool | Badge |
+| :--- | :---: |
+| **Visual Studio Code** | ![VSCode](https://img.shields.io/badge/VS%20Code-%23007ACC?style=flat&logo=visualstudiocode&logoColor=white) |
+| **npm** | ![npm](https://img.shields.io/badge/npm-%23CB3837?style=flat&logo=npm&logoColor=white) |
+| **Postman** | ![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=flat&logo=postman&logoColor=white) |
+| **Vite** | ![Vite](https://img.shields.io/badge/Vite-%230ED9E7?style=flat&logo=vite&logoColor=white) |
+| **Git** | ![Git](https://img.shields.io/badge/Git-%23F1502F?style=flat&logo=git&logoColor=white) |
+| **GitHub** | ![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white) |
+
 ## 🌱 I’m currently working on
 - Improving my TypeScript and Redux skills.
 - Building amazing projects with React and TailwindCSS.
 
 ## ✨ Fun Fact
 I believe that **every great design begins with an even better story.**
+
 
 
