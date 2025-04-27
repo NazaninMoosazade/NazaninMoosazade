@@ -9,15 +9,15 @@ I'm a passionate **Frontend Developer** who loves creating beautiful and user-fr
 
 ## 🛠️ Skills & Technologies
 
-| Technology | Logo |
+| Technology | Badge |
 | :--- | :---: |
-| **HTML5** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> |
-| **CSS3** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> |
-| **JavaScript** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> |
-| **React** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/> |
-| **TailwindCSS** | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/> |
-| **TypeScript** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> |
-| **Redux** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/> |
+| **HTML5** | ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=white) |
+| **CSS3** | ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white) |
+| **JavaScript** | ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **React** | ![React](https://img.shields.io/badge/React-%2320232A?style=flat&logo=react&logoColor=61DAFB) |
+| **TailwindCSS** | ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC?style=flat&logo=tailwindcss&logoColor=white) |
+| **TypeScript** | ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=flat&logo=typescript&logoColor=white) |
+| **Redux** | ![Redux](https://img.shields.io/badge/Redux-%23593d88?style=flat&logo=redux&logoColor=white) |
 
 ## 🌱 I’m currently working on
 - Improving my TypeScript and Redux skills.
@@ -25,4 +25,5 @@ I'm a passionate **Frontend Developer** who loves creating beautiful and user-fr
 
 ## ✨ Fun Fact
 I believe that **every great design begins with an even better story.**
+
 
