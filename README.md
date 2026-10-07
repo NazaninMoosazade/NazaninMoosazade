@@ -67,22 +67,3 @@ export function hireMe() {
 
 ---
 
-## 📫 Let's connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-0B1F4A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-
-</div>
-
----
-
-<div align="center">
-
-> 💡 *"Clean code is like poetry — elegant, readable, and expressive."*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2563EB,100:0B1F4A&section=footer" alt="Footer wave" />
-
-</div>
