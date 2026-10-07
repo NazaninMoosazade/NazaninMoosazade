@@ -29,12 +29,6 @@ I love clean code, elegant UI, and turning complex problems into simple solution
 
 ## 🛠️ Tech stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,graphql&perline=9" alt="Tech stack icons" />
-
-<br/><br/>
-
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -80,41 +74,4 @@ I love clean code, elegant UI, and turning complex problems into simple solution
 
 </div>
 
----
 
-## 💻 How I write code
-
-```tsx
-const nazanin = {
-  role: "Frontend Developer",
-  stack: ["React", "Next.js", "TypeScript", "Redux", "Tailwind CSS"],
-  values: ["clean code", "accessible UI", "small, reusable components"],
-  motto: "Every great design starts with a story",
-} as const;
-
-export function hireMe() {
-  return `Let's build something great together.`;
-}
-```
-
----
-
-## 📫 Let's connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-0B1F4A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-
-</div>
-
----
-
-<div align="center">
-
-> 💡 *"Clean code is like poetry — elegant, readable, and expressive."*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2563EB,100:0B1F4A&section=footer" alt="Footer wave" />
-
-</div>
