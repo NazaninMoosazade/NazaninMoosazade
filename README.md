@@ -48,22 +48,5 @@ I love clean code, elegant UI, and turning complex problems into simple solution
 
 </div>
 
----
 
-## 💻 How I write code
-
-```tsx
-const nazanin = {
-  role: "Frontend Developer",
-  stack: ["React", "Next.js", "TypeScript", "Redux", "Tailwind CSS"],
-  values: ["clean code", "accessible UI", "small, reusable components"],
-  motto: "Every great design starts with a story",
-} as const;
-
-export function hireMe() {
-  return `Let's build something great together.`;
-}
-```
-
----
 
