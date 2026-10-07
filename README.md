@@ -9,7 +9,6 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile+views&color=2563EB&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/USERNAME?label=Followers&style=for-the-badge&color=0B1F4A&logo=github" alt="Followers" />
 
 </div>
 
@@ -65,27 +64,6 @@ export function hireMe() {
   return `Let's build something great together.`;
 }
 ```
-
----
-
-## 📊 GitHub stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1F4A&title_color=60A5FA&icon_color=60A5FA&text_color=E2E8F0" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1F4A&title_color=60A5FA&text_color=E2E8F0" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true&background=0B1F4A&ring=60A5FA&fire=2563EB&currStreakLabel=60A5FA" alt="GitHub streak" />
-
-</div>
-
-### 📈 Contribution activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=0B1F4A&color=E2E8F0&line=2563EB&point=60A5FA&area=true&area_color=2563EB&hide_border=true" alt="Contribution graph" />
-
-</div>
 
 ---
 
