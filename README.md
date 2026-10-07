@@ -31,7 +31,7 @@ I love clean code, elegant UI, and turning complex problems into simple solution
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,github,gitlab&perline=10" alt="Tech stack icons" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,graphql&perline=9" alt="Tech stack icons" />
 
 <br/><br/>
 
@@ -43,10 +43,78 @@ I love clean code, elegant UI, and turning complex problems into simple solution
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
 
 </div>
 
+---
 
+## 📦 Libraries and packages
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="React Query" />
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" alt="React Router" />
+<img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React Hook Form" />
+<img src="https://img.shields.io/badge/Formik-2563EB?style=for-the-badge&logoColor=white" alt="Formik" />
+<img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI" />
+<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+<img src="https://img.shields.io/badge/NextUI-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextUI" />
+<img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js" />
+<img src="https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge&logo=swiper&logoColor=white" alt="Swiper" />
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
+
+</div>
+
+---
+
+## 🧰 Tools I work with
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,figma,postman,npm,vite&perline=8" alt="Tools icons" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/REST_API-0B1F4A?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
+
+</div>
+
+---
+
+## 💻 How I write code
+
+```tsx
+const nazanin = {
+  role: "Frontend Developer",
+  stack: ["React", "Next.js", "TypeScript", "Redux", "Tailwind CSS"],
+  values: ["clean code", "accessible UI", "small, reusable components"],
+  motto: "Every great design starts with a story",
+} as const;
+
+export function hireMe() {
+  return `Let's build something great together.`;
+}
+```
+
+---
+
+## 📫 Let's connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-0B1F4A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+
+</div>
+
+---
+
+<div align="center">
+
+> 💡 *"Clean code is like poetry — elegant, readable, and expressive."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2563EB,100:0B1F4A&section=footer" alt="Footer wave" />
+
+</div>
